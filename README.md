@@ -4,6 +4,10 @@ Disciplina: LINGUAGEM TÉCNICA DE PROGRAMAÇÃO MOBILE.
 
 ## Proposta de Exercício
 
+1) Criar uma calculadora que contenha as operações de Soma, Subtração, Multiplicação e Divisão. Resolver o problema da divisão por zero, ou seja, se o usuário incluir o número 0 (zero) no segundo número e selecionar a operação de divisão, o APP irá emitir uma mensagem "Não existe divisão por zero!!!".
+
+2) Incluir mais um componente EditText para receber os resultados dos cálculos realizados na calculadora, ou seja, o APP ainda continuará emitindo a mensagem com o resultado da operação realizada e também neste novo EditText (id = edresultado) irá receber o resultado de acordo com a operação clicada.
+
 ### Tela Inicial
 ![image](https://user-images.githubusercontent.com/38474570/187757174-cb5210e3-81de-4638-a809-1b84b23e50a8.png)
 
